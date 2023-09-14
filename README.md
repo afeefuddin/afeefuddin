@@ -59,6 +59,9 @@
   <a href="https://www.linkedin.com/in/afeef-uddin-2ab567247/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <a href="https://hashnode.com/@afeefuddin" target="_blank">
+<img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" height="35" />
+</a>  
 </div>
 
 ###
