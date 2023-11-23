@@ -6,7 +6,7 @@
 
 ## About Me:
 ### I write code and listen DHH
-### Currently messing with Machine Learning and Front-end development
+### Currently messing with Full Stack Development
 
 
 
