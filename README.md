@@ -1,54 +1,86 @@
-<h2 align="left">Hello World!!</h2>
+<h1 align="left">Hello World!!</h1>
 
 ###
 
-<p align="left">This is afeefuddin 👋</p>
+<h3 align="left">This is afeefuddin 👋</h3>
 
 ## About Me:
-### I write code and listen DHH
-### Currently messing with Full Stack Development
+#### I write code and listen DHH
+#### Currently messing with Full Stack Development
 
 
 
 
 ## ⚙ Tech Stack:
 
-<div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="javascript logo"  />
-   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="javascript logo"  />
-   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="javascript logo"  />
-   <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="javascript logo"  />
-   <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="30" /></a>
+### Languages
+
+<div align ="left">
+    <img src="./images/JavaScript.svg" />
+    <img src="./images/TypeScript.svg" />
+    <img src="./images/Java.svg" />
+    <img src="./images/Python.svg" />
+    <img src="./images/C.svg" />
+    
 </div>
+
+
+### Frontend
+<div align ="left">
+    <img src="./images/React.svg" />
+    <img src="./images/NextJS.svg" />
+    <img src="./images/Redux.svg" />
+    <img src="./images/TailwindCSS.svg" />
+    <img src="./images/Bootstrap.svg" />
+    <img src="./images/MaterialUI.svg" />
+    <img src="./images/Figma.svg" />
+    <img src="./images/Jest.svg" />
+    <img src="./images/JQuery.svg" />
+    <img src="./images/Sass.svg" />
+    
+</div>
+
+### Backend
+<div align ="left">
+    <img src="./images/NodeJS.svg" />
+    <img src="./images/ExpressJS.svg" />
+    <img src="./images/Django.svg" />
+</div>
+
+### Database
+
+<div align ="left">
+    <img src="./images/MongoDB.svg" />
+    <img src="./images/PostgreSQL.svg" />
+    <img src="./images/MySQL.svg" />
+    <img src="./images/Redis.svg" />
+    <img src="./images/Prisma.svg" />
+</div>
+
+### Services
+
+<div align ="left">
+    <img src="./images/Firebase.svg" />
+    <img src="./images/Supabase.svg" />
+    <img src="./images/Kafka.svg" />
+    <img src="./images/Vercel.svg" />
+
+</div>
+
+### Devops
+
+<div align ="left">
+    <img src="./images/Docker.svg" />
+</div>
+
+### Tools
+
+<div align ="left">
+    <img src="./images/Git.svg" />
+    <img src="./images/Postman.svg" />
+    <img src="./images/Vite.svg" />  
+</div>
+
 
 ## Socials:
 
